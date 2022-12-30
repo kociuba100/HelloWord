@@ -16,6 +16,7 @@ namespace HelloWord
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Nazywam się Blazej Kociuba");
             Console.WriteLine("nowa zmiana na potrzeby GitHub-a");
+            Console.WriteLine("kolejna zmiana na potzeby GitHuba-a");
             if (PI_NUMBER > 2)
             {
             }
